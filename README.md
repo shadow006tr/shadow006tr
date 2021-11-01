@@ -4,6 +4,7 @@
 
 <br/>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <br/>
 
 <h3>Languages and IDE's</h3>
