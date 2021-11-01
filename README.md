@@ -1,8 +1,10 @@
-## Hi, My name is Danny. I'm a freshly graduated CS student.
+<h2> Hi, My name is Danny. I'm a freshly graduated CS student. </h2>
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-  <br/>
+<br/>
+<!--START_SECTION:activity-->
+<br/>
 
 <h3>Languages and IDE's</h3>
 <p>
