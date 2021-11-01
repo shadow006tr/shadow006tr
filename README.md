@@ -2,7 +2,7 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+
   <br/>
 
 <h3>Languages and IDE's</h3>
@@ -19,4 +19,3 @@
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow006tr&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
