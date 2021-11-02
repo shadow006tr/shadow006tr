@@ -35,9 +35,23 @@ Any advice and code reviews would be highly welcome.
 
 <h3>My GitHub Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
+<a href="https://github.com/shadow006tr/shadow006tr">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&theme=github_dark&hide_border=true"
+</a>
 
-</br>
+<a href="https://github.com/shadow006tr/shadow006tr">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
+</a>
+
+
+
 <p align="center"><small>
-the stats are uypdated every 6 hours
+the stats are updated every 6 hours
 </small></p>
+
+<!-- Resources -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
