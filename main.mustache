@@ -4,8 +4,7 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <br/>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- START gadpp -->
 <br/>
 
 <h3>Languages and IDE's</h3>
