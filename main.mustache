@@ -29,4 +29,4 @@ Any advice and code reviews would be highly welcome.
 
 <h3>My GitHub Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
