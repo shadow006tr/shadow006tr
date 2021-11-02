@@ -38,6 +38,6 @@ Any advice and code reviews would be highly welcome.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
 
 </br>
-<p style: silent; text-allign: center>
+<p align="center"><small>
 the stats are uypdated every 6 hours
-</p>
+</small></p>
