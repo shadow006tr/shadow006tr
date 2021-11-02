@@ -14,7 +14,7 @@ Any advice and code reviews would be highly welcome
 
 </br>
 
-<h3>&#1f5a5 Languages and IDE's I use:</h3>
+<h3>&#x1f5a5 Languages and IDE's I use:</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
@@ -29,7 +29,7 @@ Any advice and code reviews would be highly welcome
 </p>
 
 </br>
-<h2>&#1f4c8 Some of my stats: </h2>
+<h2>&#x1f4c8 Some of my stats: </h2>
 
 <h3>My Weekly Wakatime Stats:</h3>
 
