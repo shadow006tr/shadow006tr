@@ -36,7 +36,7 @@ Any advice and code reviews would be highly welcome.
 <h3>My GitHub Stats:</h3>
 
 <a href="https://github.com/shadow006tr/shadow006tr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&theme=github_dark&hide_border=true"
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&z&hide=html,tex&show_icons=true&theme=github_dark&hide_border=true"
 </a>
 
 <a href="https://github.com/shadow006tr/shadow006tr">
