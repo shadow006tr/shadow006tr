@@ -32,6 +32,10 @@ Any advice and code reviews would be highly welcome.
 <h2>Some of my stats: </h2>
 
 <!--START_SECTION:waka-->
+```text
+Mustache   10 mins         ██████████████████▒░░░░░░   73.94 % 
+YAML       3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+```
 <!--END_SECTION:waka-->
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
