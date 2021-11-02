@@ -26,5 +26,7 @@ Any advice and code reviews would be highly welcome.
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green" />
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important" />
 </p>
+
 <h3>My GitHub Stats:</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
