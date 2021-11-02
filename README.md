@@ -1,4 +1,5 @@
-<h2> Hi, My name is Danny. I'm a freshly graduated CS student. </h2>
+<h1> Hi, Github. My name is &lt;b&gt;Danny&lt;&#x2F;b&gt;. </h1><br/>
+<h2>I'm a freshly graduated CS student. </h2><br/>
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
