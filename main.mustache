@@ -36,13 +36,13 @@ Any advice and code reviews would be highly welcome.
 
 
 <a href="https://github.com/shadow006tr/shadow006tr">
-<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777"
+<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&theme=github_dark&hide_border=true&langs_count=3&bg_color=00000000&text_color=777"
 </a>
 
 <h3>My GitHub Stats:</h3>
 
 <a href="https://github.com/shadow006tr/shadow006tr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&z&hide=html,tex&show_icons=true&theme=github_dark&hide_border=true"
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&z&hide=html,tex&theme=github_dark&hide_border=true"
 </a>
 
 <a href="https://github.com/shadow006tr/shadow006tr">
