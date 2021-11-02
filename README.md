@@ -1,14 +1,13 @@
 <h1> Hi, Github.</h1>
 <h2>My name is <b>Danny</b>. </h2>
-<br/>
-<h4>I'm a freshly graduated CS student. </h4>
+I'm a freshly graduated CS student. Currently ( Tuesday, 2 November ), I'm learning languages and doing projects on hyperskill and looking for a job as a programmer.
+Any advice and code reviews would be highly welcome.
 
-<!-- START gadpp -->
+
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-
-<h3>Languages and IDE's</h3>
+<h3>Languages and IDE's:</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
@@ -22,3 +21,4 @@
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important" />
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
