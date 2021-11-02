@@ -32,6 +32,10 @@ Any advice and code reviews would be highly welcome.
 <h2>Some of my stats: </h2>
 
 <!--START_SECTION:waka-->
+```text
+Mustache   10 mins         ██████████████████▒░░░░░░   73.94 % 
+YAML       3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+```
 <!--END_SECTION:waka-->
 
 
