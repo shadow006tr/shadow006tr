@@ -1,12 +1,5 @@
-name: README build
-
-on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+name: Update GitHub Profile Page
+on: [push]
 
 jobs:
 
@@ -25,6 +18,16 @@ jobs:
         with:
           github-username: 'shadow006tr'
           user-email: 'shadow006tr@gmail.com'
+
+name: README build
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
   build:
     runs-on: ubuntu-latest
