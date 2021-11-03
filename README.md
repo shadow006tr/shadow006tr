@@ -11,7 +11,7 @@ I'm a freshly graduated <b>CS student</b>. Currently I'm improving my Java and p
 and looking for a job as a programmer
 </br>
 </br>
-Any advice and code reviews would be highly welcome
+Any advice and code reviews would be highly appreciated
 
 </br>
 
