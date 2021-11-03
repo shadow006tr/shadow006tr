@@ -34,6 +34,10 @@ Any advice and code reviews would be highly welcome
 <h3>My Weekly Wakatime Stats:</h3>
 
 <!--START_SECTION:waka-->
+```text
+Mustache   10 mins         ██████████████████▒░░░░░░   73.94 % 
+YAML       3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+```
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/shadow006tr/shadow006tr">
