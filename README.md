@@ -31,13 +31,13 @@ Any advice and code reviews would be highly welcome
 </br>
 <h2>&#x1f4c8 Some of my stats: </h2>
 
-<h3>My Weekly Wakatime Stats:</h3>
+<h3>Weekly Wakatime Stats:</h3>
 
 <a href="https://github.com/shadow006tr/shadow006tr">
 <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&theme=github_dark&hide_border=true&langs_count=3&bg_color=00000000&text_color=777&v=2"
 </a>
 
-<h3>My GitHub Stats:</h3>
+<h3>GitHub Stats:</h3>
 
 <a href="https://github.com/shadow006tr/shadow006tr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&z&hide=html,tex&theme=github_dark&hide_border=true"
@@ -49,9 +49,9 @@ Any advice and code reviews would be highly welcome
 
 
 
-<p align="center"><small>
+<p align="center">
 the stats are updated every 6 hours
-</small></p>
+</p>
 
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
