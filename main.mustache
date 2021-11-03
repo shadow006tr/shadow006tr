@@ -33,9 +33,6 @@ Any advice and code reviews would be highly welcome
 
 <h3>My Weekly Wakatime Stats:</h3>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <a href="https://github.com/shadow006tr/shadow006tr">
 <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&theme=github_dark&hide_border=true&langs_count=3&bg_color=00000000&text_color=777&v=2"
 </a>
