@@ -10,6 +10,7 @@ I'm a freshly graduated <b>CS student</b>. Currently I'm improving my Java and p
 <a href="https://hyperskill.org/profile/126342676" target="_blank"><b>hyperskill.org</b></a>
 and looking for a job as a programmer
 </br>
+</br>
 Any advice and code reviews would be highly welcome
 
 </br>
