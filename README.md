@@ -41,11 +41,11 @@ Any advice and code reviews would be highly appreciated
 <h3>GitHub Stats:</h3>
 
 <a href="https://github.com/shadow006tr/shadow006tr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&z&hide=html,tex&theme=github_dark&hide_border=true"
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&z&hide=html,tex&theme=github_dark&hide_border=true">
 </a>
 
 <a href="https://github.com/shadow006tr/shadow006tr">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true">
 </a>
 
 
