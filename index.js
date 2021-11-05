@@ -13,6 +13,9 @@ let DATA = {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
     timeZone: 'Asia/Jerusalem',
   }),
 
