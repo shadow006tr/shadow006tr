@@ -53,7 +53,7 @@ Any advice and code reviews would be highly appreciated
 <p align="center">
 the stats are updated every 6 hours<br />
 last update:<br />
-Friday, 5 November, 02:37 GMT+2
+> Friday, 5 November, 02:39 GMT+2
 </p>
 
 <!-- Resources -->
