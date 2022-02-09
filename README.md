@@ -6,9 +6,8 @@
 <a href="https://www.linkedin.com/in/danny-wisotsky-518520b9/-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-I'm a freshly graduated <b>CS student</b>. Currently I'm improving my Java and python skills, doing projects on
+I'm a freshly graduated <b>CS student</b>. Currently working in a startup company and also improving my Java and python skills, doing projects on
 <a href="https://hyperskill.org/profile/126342676" target="_blank"><b>hyperskill.org</b></a>
-and looking for a job as a programmer
 <br />
 <br />
 Any advice and code reviews would be highly appreciated
@@ -52,7 +51,7 @@ Any advice and code reviews would be highly appreciated
 
 
 <p align="center">
-This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, 6 December, 15:29 GMT+2<br />
+This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, 9 February, 21:20 GMT+2<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 </p>
 
