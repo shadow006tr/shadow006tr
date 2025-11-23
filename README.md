@@ -16,37 +16,17 @@ Any advice and code reviews would be highly appreciated
 
 <h3>&#x1f5a5 Languages and IDE's I use:</h3>
 <p>
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=flat-square&logo=typescript&logoColor=%233178C6" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+ 
 <br />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green" />
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important" />
 </p>
-
-<br />
-<h2>&#x1f4c8 Some of my stats: </h2>
-
-<h3>Weekly Wakatime Stats:</h3>
-
-<a href="https://github.com/shadow006tr/shadow006tr">
-<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shadow006tr&hide_title=true&theme=github_dark&hide_border=true&langs_count=3&bg_color=00000000&text_color=777&v=2"
-</a>
-
-<h3>GitHub Stats:</h3>
-
-<a href="https://github.com/shadow006tr/shadow006tr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow006tr&z&hide=html,tex&theme=github_dark&hide_border=true">
-</a>
-
-<a href="https://github.com/shadow006tr/shadow006tr">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadow006tr&count_private=true&show_icons=true&theme=github_dark&hide_border=true">
-</a>
 
 
 
